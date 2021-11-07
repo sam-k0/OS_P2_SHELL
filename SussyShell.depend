@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636326286 source:/home/fs/Schreibtisch/Betriebssysteme/P2/SussyShell/main.cpp
+	<iostream>
+	"main.h"
+	"string.h"
+
+1636325194 /home/fs/Schreibtisch/Betriebssysteme/P2/SussyShell/main.h
+	"unistd.h"
+	<vector>
+	<string>
+	<stdio.h>
+	<sys/wait.h>
+	<sys/types.h>
+
